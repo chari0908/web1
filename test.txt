@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+</head>
+<body>
+	<title>
+		<strong>안녕하세요?</strong>
+	</title>
+
+시작은 <a herf="http://gosohage" target="_blank">내용증명</a>부터입니다.
+</body>
+</html>
